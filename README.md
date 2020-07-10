@@ -1,2 +1,2 @@
-# PDF_tables_Python
+# Extract PDF tables using Python
 Extract Tables From PDF using Python 
